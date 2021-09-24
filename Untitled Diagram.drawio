@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2021-09-24T06:33:55.482Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" version="15.3.1" etag="TS61CB8pTPgmoVQhUpC5" type="github"><diagram id="f_JCOsJdZpkwOpJvu55k">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-24T07:04:15.090Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="1Rt9N30D8RxM_VV8eteE" version="15.3.1" type="github">
+  <diagram id="f_JCOsJdZpkwOpJvu55k" name="第 1 页">
+    <mxGraphModel dx="1153" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZclUWfq9dkV1ctlcsWA_-425" value="VacheDesign" style="swimlane;fontFamily=Comic Sans MS;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="210" width="490" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="ZclUWfq9dkV1ctlcsWA_-428" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Store&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;sketch=1;fontFamily=Comic Sans MS;" vertex="1" parent="ZclUWfq9dkV1ctlcsWA_-425">
+          <mxGeometry x="10" y="80" width="60" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="ZclUWfq9dkV1ctlcsWA_-430" value="render" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fontFamily=Comic Sans MS;" vertex="1" parent="ZclUWfq9dkV1ctlcsWA_-425">
+          <mxGeometry x="340" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZclUWfq9dkV1ctlcsWA_-431" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fontFamily=Comic Sans MS;" vertex="1" parent="ZclUWfq9dkV1ctlcsWA_-425">
+          <mxGeometry x="340" y="144" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZclUWfq9dkV1ctlcsWA_-426" value="VacheParser" style="swimlane;fontFamily=Comic Sans MS;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="200" width="500" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="ZclUWfq9dkV1ctlcsWA_-427" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Store&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;sketch=1;fontFamily=Comic Sans MS;" vertex="1" parent="ZclUWfq9dkV1ctlcsWA_-426">
+          <mxGeometry x="430" y="190" width="60" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
